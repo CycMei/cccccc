@@ -1,0 +1,6 @@
+<RCC>
+    <qresource prefix="/QtOne"/>
+    <qresource prefix="/new/prefix1">
+        <file alias="icn">img/aa.png</file>
+    </qresource>
+</RCC>
